@@ -1,0 +1,103 @@
+Mahesh Kumar
+
+Indore, India 453441
+7007204749
+mahesh.kr.2277@gmail.com
+
+Websites, Profiles
+
+https://www.linkedin.com/in/mahikr/
+https://unstop.com/u/mahi_kr__
+https://github.com/krmahi
+
+Professional Summary
+
+Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
+
+Work History
+
+May 2023 - August 2023
+Google Cloud
+Google Cloud Arcade Facilitator
+
+Managing Virtual Machines on cloud, SMB Workloads and Optimizing Storage Usage.
+Operating on CLI's, Creating Storage Buckets, Insights from Data with BigQuery, Exploring Data with Looker, Integrating Machine Learning APIs.
+
+June 2022 - July 2022
+DevTown - Delhi Ncr, India
+Campus Ambassador
+
+Promoting the organization, its vision, values and services among fellow students on the campus.
+Organizing and promoting events, workshops, seminars,webinars and social gatherings
+
+Projects
+
+Autonomous Vehicle Localization and Navigation (Simulink, Unreal Engine) | MatLab, C++ (July 2023 - Present)
+
+Leading the creation of a dynamic simulation scenario and incorporating lidar, INS, and camera sensors and vehicle navigation system integrating Unreal Engine's simulator.
+Developed algorithms for real-time traffic light recognition and decision-making planners.
+Demonstrated significant advancements in autonomous vehicle navigation, contributing to the evolution of self-driving technology.
+Skills: Simulink Stateflow Unreal Engine
+
+GENDER RECOGNITION USING VOICE (GUI) | Python, R (Aug 2022 - Present)
+
+Developed a gender recognition system using voice as the primary input.
+Trained the system using a large dataset of male and female voice samples to improve accuracy.
+Ver. 2.0. : Implemented A.I. to increase the dataset on every use, and Build a GUI for the programe and published it into a software (VoiceGenix).
+Skills: Machine Learning Data Collection Data Analysis Research and Analysis
+Link: https://github.com/krmahi/Gender-recognition-using-voice-GUI
+
+2D Ray Tracing | Html, Css, Js (Jun 2022)
+
+Implemented ray casting to simulate the behavior of light rays, determining which objects are visible and where shadows fall.
+Used vector math to calculate ray-object intersections and determine the direction of reflected rays,
+Link: https://github.com/krmahi/2d_ray_casting
+
+Volume Control Using Hand Gestures | Python (Aug 2021)
+
+Developed a volume control system using hand gesture and recognition technology.
+users can simply wave their hand to increase or decrease the volume without having to physically touch any buttons or knobs.
+Skills: OpenCV ComputerVision
+
+Skills
+
+C++ Proficiency
+Python
+FRONTEND WEB APPLICATIONS
+R (worked with)
+MYSQL
+Machine Learning
+
+Git Proficiency
+Artificial Intelligence
+Cloud Computing
+API Integration
+Problem Solving
+Amazon Web Services
+
+Education
+
+Expected in July 2024
+G.L. Bajaj Institute of Technology And Management Delhi NCR
+Bachelor of Technology Computer Science And Engineering
+
+8.26 CGPA
+
+March 2020
+Army Public School Prayagraj, India
+Intermidiate
+
+Final Grade: 89%
+Completed Coursework: Science and Maths
+
+Certifications
+
+Certified C++ | Coding Ninja
+Clearance to 2nd round of Times Spark | Times of India
+Data Structures and Algorithms in Python | Google
+Cloud Architecture and Fundamentals | AWS Academy
+Microsoft learn Student Ambassador
+Google developer Student Club
+Problem Solving | HackerRank
+Unstop Competition Certifications
+Data Science | Infosys
